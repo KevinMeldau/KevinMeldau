@@ -7,6 +7,8 @@ I love writting about web development, design, and general agency life. Take a l
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kevinmeldau/)
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://medium.com/@kevinmeldau)
 
+### Please take a look at [my portfolio of work](https://www.kevinmeldau.com/)!
+
 ---
 
 ### Technologies that I work with:
@@ -18,9 +20,6 @@ I love writting about web development, design, and general agency life. Take a l
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" alt="Sketch logo" width="50" height="50">
 
----
-
-### Please take a look at [my portfolio of work](https://www.kevinmeldau.com/)!
 <!--
 **KevinMeldau/KevinMeldau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
