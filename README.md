@@ -1,6 +1,6 @@
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Kevin Meldau
 
-I'm a seasoned front-end developer / UX/UI designer passionate about blending design and development. I've got strong leadership skills, creative team management, and branding consistency in digital and print media. I thrive in a role that allows me to flex my creative muscle while giving me a place to further my development skills.
+I'm a seasoned front-end developer / UX/UI designer passionate about blending design and development. I've got strong leadership skills, creative team management, and branding consistency in digital and print media. I thrive in roles that allows me to flex my creative muscle while giving me a place to further my development skills.
 
 I love writting about web development, design, and general agency life. Take a look at what I have to say and follow me on [Medium](https://medium.com/@kevinmeldau).
 
