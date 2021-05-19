@@ -20,7 +20,7 @@ I love writting about web development, design, and general agency life. Take a l
 
 ---
 
-### Please take a look at my portfolio of work!
+### Please take a look at [my portfolio of work](https://www.kevinmeldau.com/)!
 <!--
 **KevinMeldau/KevinMeldau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
