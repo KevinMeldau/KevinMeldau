@@ -7,7 +7,7 @@ I love writting about web development, design, and general agency life. Take a l
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kevinmeldau/)
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://medium.com/@kevinmeldau)
 
-### Please take a look at [my portfolio of work](https://www.kevinmeldau.com/)!
+### Be sure to take a look at [my portfolio of work](https://www.kevinmeldau.com/)
 
 ---
 
