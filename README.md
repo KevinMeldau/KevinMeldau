@@ -7,17 +7,20 @@ I love writting about web development, design, and general agency life. Take a l
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kevinmeldau/)
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://medium.com/@kevinmeldau)
 
+---
+
 ### Technologies that I work with:
 **Development**
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="NPM logo" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="Rails logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" alt="Ruby on Rails logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="Sass logo" width="50" height="50">
 
-
 **Design**
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" alt="Sketch logo" width="50" height="50">
 
+---
 
+### Please take a look at my portfolio of work!
 <!--
 **KevinMeldau/KevinMeldau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
