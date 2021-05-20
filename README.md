@@ -18,7 +18,7 @@ I love writting about web development, design, and general agency life. Take a l
 
 **Design**
 
-<img src="https://cdn.worldvectorlogo.com/logos/invision.svg" alt="Sketch logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" alt="Sketch logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" alt="Sketch logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/adobe-creative-cloud-cc.svg" alt="Adobe Creative Suite logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/invision.svg" alt="InVision logo" width="50" height="50">
 
 <!--
 **KevinMeldau/KevinMeldau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
