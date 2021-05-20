@@ -2,7 +2,7 @@
 
 I'm a seasoned frontend developer / UX/UI designer passionate about blending design and development. I've got strong leadership skills, creative team management, and branding consistency in digital and print media. I thrive in roles that allow me to flex my creative muscle while giving me a place to further my development skills.
 
-I love writting about web development, design, and general agency life. Follow what I have to say on [Medium](https://medium.com/@kevinmeldau).
+I love writing about web development, design, and general agency life. Follow what I have to say on [Medium](https://medium.com/@kevinmeldau).
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kevinmeldau/)
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://medium.com/@kevinmeldau)
